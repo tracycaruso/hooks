@@ -1,25 +1,25 @@
 {
   "categories": {
-    "1": {
-      "id": "1",
+    "10": {
+      "id": "10",
       "title": "Candles",
       "imageUrl": "https://i.ibb.co/5jjWrgX/strawberrylemonade.png",
       "linkUrl": "/collection/candles"
     },
-    "2": {
-      "id": "2",
+    "20": {
+      "id": "20",
       "title": "Wax Melts",
       "imageUrl": "https://i.ibb.co/5jjWrgX/strawberrylemonade.png",
       "linkUrl": "/collection/wax-melts"
     },
-    "3": {
-      "id": "3",
+    "30": {
+      "id": "30",
       "title": "Car Fresheners",
       "imageUrl": "https://i.ibb.co/5jjWrgX/strawberrylemonade.png",
       "linkUrl": "/collection/car-fresheners"
     },
-    "4": {
-      "id": "4",
+    "40": {
+      "id": "40",
       "title": "Room Spray",
       "imageUrl": "https://i.ibb.co/5jjWrgX/strawberrylemonade.png",
       "linkUrl": "/collection/rooms-spray"
