@@ -1,6 +1,10 @@
 {
-  "candles": {},
-  "waxes": {},
+  "candles": {
+    "scent": "strawberry"
+  },
+  "waxes": {
+    "scent": "lemon"
+  },
   "categories": {
     "11": {
       "id": "11",
