@@ -21,6 +21,14 @@
       "linkUrl": "/collection/wax-melts/purple-rains"
     }
   },
+  "room-sprays": {
+    "21": {
+      "id": "21",
+      "title": "Lush Lemon",
+      "imageUrl": "https://i.ibb.co/sPJRX0c/lush-lemon-room-spray.png",
+      "linkUrl": "/collection/room-spray/lush-lemon"
+    }
+  },
   "categories": {
     "11": {
       "id": "11",
