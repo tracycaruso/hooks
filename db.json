@@ -12,6 +12,12 @@
       "imageUrl": "https://i.ibb.co/dbXjjnS/blueberry-crumble-pouch.png",
       "linkUrl": "/collection/wax-melts"
     },
+    "31": {
+      "id": "31",
+      "title": "Room Spray",
+      "imageUrl": "https://i.ibb.co/sPJRX0c/lush-lemon-room-spray.png",
+      "linkUrl": "/collection/room-spray"
+    },
     "30": {
       "id": "30",
       "title": "Car Fresheners",
@@ -20,15 +26,15 @@
     },
     "40": {
       "id": "40",
-      "title": "Room Spray",
+      "title": "Candle",
       "imageUrl": "https://i.ibb.co/60C3KG9/strawberry-lemonade.png",
-      "linkUrl": "/collection/room-spray"
+      "linkUrl": "/collection/candles"
     },
     "50": {
       "id": "50",
-      "title": "Room Spray",
+      "title": "Wax Melts",
       "imageUrl": "https://i.ibb.co/HXKJX7V/purple-rain-pouch.png",
-      "linkUrl": "/collection/room-spray"
+      "linkUrl": "/collection/wax-melts"
     }
   }
 }
