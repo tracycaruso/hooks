@@ -42,7 +42,8 @@
     }
   },
   "car": {
-    "banana": "flavor"
+    "banana": "flavor",
+    "apple": "scent"
   },
   "categories": {
     "11": {
