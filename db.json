@@ -45,6 +45,11 @@
     "banana": "flavor",
     "apple": "scent"
   },
+  "scents": {
+    "01": "strawberry",
+    "02": "lemon",
+    "03": "blueberry"
+  },
   "categories": {
     "11": {
       "id": "11",
