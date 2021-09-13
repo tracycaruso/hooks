@@ -11,6 +11,12 @@
       "title": "Orange Energy",
       "imageUrl": "https://i.ibb.co/svk51ky/orange-energy.png",
       "linkUrl": "/collection/candles/orange-energy"
+    },
+    "71": {
+      "id": "71",
+      "title": "Strawberry Lemonade",
+      "imageUrl": "https://i.ibb.co/60C3KG9/strawberry-lemonade.png",
+      "linkUrl": "/collection/candles/strawberry-lemonade"
     }
   },
   "wax-melts": {
@@ -18,7 +24,13 @@
       "id": "71",
       "title": "Purple Rain",
       "imageUrl": "https://i.ibb.co/HXKJX7V/purple-rain-pouch.png",
-      "linkUrl": "/collection/wax-melts/purple-rains"
+      "linkUrl": "/collection/wax-melts/purple-rain"
+    },
+    "81": {
+      "id": "81",
+      "title": "Bluberry Crumble",
+      "imageUrl": "https://i.ibb.co/dbXjjnS/blueberry-crumble-pouch.png",
+      "linkUrl": "/collection/wax-melts/blueberry-crumble"
     }
   },
   "room-sprays": {
@@ -29,11 +41,19 @@
       "linkUrl": "/collection/room-spray/lush-lemon"
     }
   },
+  "multi=packs": {
+    "41": {
+      "id": "41",
+      "title": "Multi Packs",
+      "imageUrl": "https://i.ibb.co/T1DfkF6/multi-pack.png",
+      "linkUrl": "/collection/multi-packs"
+    }
+  },
   "categories": {
     "11": {
       "id": "11",
       "title": "Candles",
-      "imageUrl": "https://i.ibb.co/60C3KG9/strawberry-lemonade.png",
+      "imageUrl": "https://i.ibb.co/svk51ky/orange-energy.png",
       "linkUrl": "/collection/candles"
     },
     "21": {
@@ -45,7 +65,7 @@
     "31": {
       "id": "31",
       "title": "Wax Melts",
-      "imageUrl": "https://i.ibb.co/dbXjjnS/blueberry-crumble-pouch.png",
+      "imageUrl": "https://i.ibb.co/kcJrZSX/cactus-cucumber-melts.png",
       "linkUrl": "/collection/wax-melts"
     },
     "41": {
