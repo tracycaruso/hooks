@@ -47,6 +47,12 @@
       "title": "Multi Packs",
       "imageUrl": "https://i.ibb.co/T1DfkF6/multi-pack.png",
       "linkUrl": "/collection/multi-packs"
+    },
+    "42": {
+      "id": "42",
+      "title": "Multi Packs",
+      "imageUrl": "https://i.ibb.co/T1DfkF6/multi-pack.png",
+      "linkUrl": "/collection/multi-packs"
     }
   },
   "categories": {
@@ -56,14 +62,14 @@
       "imageUrl": "https://i.ibb.co/svk51ky/orange-energy.png",
       "linkUrl": "/collection/candles"
     },
-    "21": {
-      "id": "21",
+    "31": {
+      "id": "31",
       "title": "Room Spray",
       "imageUrl": "https://i.ibb.co/sPJRX0c/lush-lemon-room-spray.png",
       "linkUrl": "/collection/room-spray"
     },
-    "31": {
-      "id": "31",
+    "21": {
+      "id": "21",
       "title": "Wax Melts",
       "imageUrl": "https://i.ibb.co/kcJrZSX/cactus-cucumber-melts.png",
       "linkUrl": "/collection/wax-melts"
